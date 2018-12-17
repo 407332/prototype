@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_vragenlijsten"
+        android:title="@string/Vragenlijsten" />
+    <item
+        android:id="@+id/navigation_voortherapeut"
+        android:title="@string/Voortherapeut" />
+    <item
+        android:id="@+id/navigation_noodcontact"
+        android:title="@string/Noodcontact" />
+    <item
+        android:id="@+id/navigation_instellingen"
+        android:title="@string/Instellingen" />
+
+</menu>

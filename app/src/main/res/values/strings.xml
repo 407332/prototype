@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="opening">Welkom</string>
+    <string name="Vrage">Openstaande vragenlijsten:</string>
+    <string name="Vragenlijst1">Vragenlijst 11-12-2018</string>
+    <string name="Openstaande">Openstaande Vragenlijsten:</string>
+    <string name="Oude">Oude Vragenlijsten:</string>
+    <string name="resultaat">Resultaat afgelopen week:</string>
+
+    <string name="Vragenlijsten">Vragenlijsten</string>
+    <string name="Voortherapeut">Voor Therapeut</string>
+    <string name="Noodcontact">NoodContact</string>
+    <string name="Instellingen">Instellingen</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="thema">Thema</string>
+    <string name="lettertype">Formaat Lettertype</string>
+    <string name="Notificaties">Notificaties</string>
+    <string name="uit">UIT     </string>
+    <string name="aan">AAN     </string>
+    <string name="licht">LICHT     </string>
+    <string name="donker">DONKER     </string>
+    <string name="taal">Taal</string>
+
+
+    <string name="hoegaat">Hoe gaat het?</string>
+    <string name="hoegaathint">Goed, slecht, kalm,etc</string>
+    <string name="waarbent">Waar bent u?</string>
+    <string name="waarbenthint">Thuis, op werk, bij een vriend,etc</string>
+    <string name="Metwie">Met wie bent u?</string>
+    <string name="Metwiehint">Alleen, met vrienden, etc</string>
+    <string name="volgende">Volgende</string>
+
+    <string name="hoeerg">Hoe erg is de aanval?</string>
+    <string name="Hierkunt">Hier kunt u opmerkingen plaatsen</string>
+    <string name="afronden">Afronden</string>
+
+    <string name="leeftijd">Wat is uw leeftijd?</string>
+    <string name="geslacht">Wat is uw geslacht?</string>
+    <string name="Welke">Welke phobia heeft u?</string>
+
+
+</resources>
